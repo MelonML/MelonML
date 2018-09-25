@@ -1,4 +1,4 @@
-<img src="./img/header.png" alt="Open AutoML Logo" title="Open AutoML" width="100%" />
+<img src="./img/header.svg" alt="Open AutoML Logo" title="Open AutoML" width="100%" />
 
 
 <div align="center">
