@@ -14,7 +14,7 @@
   <img src="./img/architecture.jpg" alt="Open AutoML architecture info graphic" title="Architecture" width="80%" />
 </div>
 
-### 1. UI
+### 1. Dashboard
 The UI is a React application. It provides the following features:
 
 - Upload and manage your training data
