@@ -12,6 +12,32 @@
 ## Architecture
 <img src="./img/architecture.jpg" alt="Open AutoML architecture info graphic" title="Architecture" width="100%" />
 
+### UI
+The UI is a React application. It provides the following features:
+
+- Upload and manage your training data
+- Schedule parameterized training tasks
+- Get insights with reports from tasks
+- Administrate users, organizations and runners
+
+### Coordinator
+The coordinator is a Django based application. It holds the data which can be uploaded via the UI and manages the runner instances. It is the backend for the Web UI and handles user management and access control.
+
+It serves as storage for:
+
+- Training data
+- Trained models
+
+### Runner
+[Repository](https://github.com/OpenAutoML/runner)
+
+The runner is responible for the training of the machine learning model. It is beeing run by starting a docker container. After startup, it asks for the coordinator URL and a token to register itself to the coordinator.
+
+It fetches the training data from the coordinator and uses [autokeras](https://github.com/jhfjhfj1/autokeras) to find a suitable model and train it. The final model is then pushed together with a report back to the coordinator.
+
+## Milestones
+
+
 ## Authors
 
 <!-- prettier-ignore -->
