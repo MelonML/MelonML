@@ -15,7 +15,7 @@
 </div>
 
 ### 1. Dashboard
-The dashboard is a React application. It provides the following features:
+The Dashboard is a React application. It provides the following features:
 
 - Upload and manage your training data
 - Schedule parameterized training tasks
@@ -23,7 +23,7 @@ The dashboard is a React application. It provides the following features:
 - Administrate users, organizations and runners
 
 ### 2. Coordinator
-The coordinator is a Django based application. It holds the data which can be uploaded via the UI and manages the runner instances. It is the backend for the Web UI and handles user management and access control.
+The Coordinator is a Django based application. It holds the data which can be uploaded via the UI and manages the runner instances. It is the backend for the Web UI and handles user management and access control.
 
 It serves as storage for:
 
