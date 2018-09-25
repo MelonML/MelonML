@@ -31,7 +31,7 @@ It serves as storage for:
 ### 3. Runner
 [Repository](https://github.com/OpenAutoML/runner)
 
-The runner is responible for the training of the machine learning model. It is beeing run by starting a docker container. After startup, it asks for the coordinator URL and a token to register itself to the coordinator.
+The runner is responsible for the training of the machine learning model. It is beeing run by starting a docker container. After startup, it asks for the coordinator URL and a token to register itself to the coordinator.
 
 It fetches the training data from the coordinator and uses [autokeras](https://github.com/jhfjhfj1/autokeras) to find a suitable model and train it. The final model is then pushed together with a report back to the coordinator.
 
