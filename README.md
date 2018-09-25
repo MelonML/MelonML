@@ -15,7 +15,7 @@
 </div>
 
 ### 1. Dashboard
-The UI is a React application. It provides the following features:
+The dashboard is a React application. It provides the following features:
 
 - Upload and manage your training data
 - Schedule parameterized training tasks
