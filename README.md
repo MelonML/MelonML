@@ -29,7 +29,7 @@ It serves as storage for:
 - Trained models
 
 ### 3. Runner
-[Repository](https://github.com/OpenAutoML/runner)
+Repository: https://github.com/OpenAutoML/runner
 
 The runner is responsible for the training of the machine learning model. It is beeing run by starting a docker container. After startup, it asks for the coordinator URL and a token to register itself to the coordinator.
 
