@@ -3,11 +3,14 @@
 
 <div align="center">
   <h1>Open AutoML</h1>
-  
+
   <p><em>Nice Description.</em></p>
-  
+
   <hr />
 </div>
+
+## Architecture
+<img src="./img/architecture.jpg" alt="Open AutoML architecture info graphic" title="Architecture" width="100%" />
 
 ## Authors
 
