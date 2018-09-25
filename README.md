@@ -43,7 +43,7 @@ It fetches the training data from the coordinator and uses [autokeras](https://g
 ## Authors
 
 <!-- prettier-ignore -->
-| [<img src="https://avatars.githubusercontent.com/u/967243?v=4" width="100px;"/><br /><sub><b>Sören Wegener</b></sub>](https://twitter.com)| [<img src="https://avatars0.githubusercontent.com/u/472867?v=4" width="100px;"/><br /><sub><b>Felix Haus</b></sub>](http://twitter.com)| [<img src="https://avatars3.githubusercontent.com/u/112170?v=4" width="100px;"/><br /><sub><b>Maik</b></sub>](http://twitter.com)|
+| [<img src="https://avatars.githubusercontent.com/u/967243?v=4" width="100px;"/><br /><sub><b>Sören Wegener</b></sub>](https://github.com/soerface)| [<img src="https://avatars0.githubusercontent.com/u/472867?v=4" width="100px;"/><br /><sub><b>Felix Haus</b></sub>](http://twitter.com)| [<img src="https://avatars.githubusercontent.com/m4j3" width="100px;"/><br /><sub><b>Maik Jessulat</b></sub>](http://twitter.com)|
 | :---: | :---: | :---: |
 
 ## License
