@@ -10,7 +10,7 @@
 </div>
 
 ## Architecture
-<img src="./img/architecture.jpg" alt="Open AutoML architecture info graphic" title="Architecture" width="100%" />
+<img src="./img/architecture.jpg" alt="Open AutoML architecture info graphic" title="Architecture" width="80%" />
 
 ### 1. UI
 The UI is a React application. It provides the following features:
