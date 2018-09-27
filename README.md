@@ -1,8 +1,8 @@
-<img src="./img/header.png" alt="Open AutoML Logo" title="Open AutoML" width="100%" />
+<img src="./img/header.png" alt="MelonML Logo" title="MelonML" width="100%" />
 
 
 <div align="center">
-  <h1>Open AutoML</h1>
+  <h1>MelonML</h1>
 
   <p><em>Nice Description.</em></p>
 
@@ -11,7 +11,7 @@
 
 ## Architecture
 <div align="center">
-  <img src="./img/architecture.jpg" alt="Open AutoML architecture info graphic" title="Architecture" width="80%" />
+  <img src="./img/architecture.jpg" alt="MelonML architecture info graphic" title="Architecture" width="80%" />
 </div>
 
 ### 1. Dashboard
@@ -31,7 +31,7 @@ It serves as storage for:
 - Trained models
 
 ### 3. Runner
-Repository: https://github.com/OpenAutoML/runner
+Repository: https://github.com/MelonML/runner
 
 The runner is responsible for the training of the machine learning model. It is beeing run by starting a docker container. After startup, it asks for the coordinator URL and a token to register itself to the coordinator.
 
