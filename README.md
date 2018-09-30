@@ -1,17 +1,19 @@
-<img src="./img/header.png" alt="MelonML Logo" title="MelonML" width="100%" />
-
-
 <div align="center">
+
+  <img src="./img/mel_header.png" alt="MelonML Logo" title="MelonML" height="350" />
   <h1>MelonML</h1>
 
-  <p><em>Nice Description.</em></p>
+  <p><em>An integrated and accessible platform for machine learning.</em></p>
 
   <hr />
 </div>
 
+## Introduction
+MelonML has the vision to make machine learning more accessible by providing a simple and intuitive interface for training and testing neural networks.
+
 ## Architecture
 <div align="center">
-  <img src="./img/architecture.jpg" alt="MelonML architecture info graphic" title="Architecture" width="80%" />
+  <img src="./img/mel_architecture.jpg" alt="MelonML architecture info graphic" title="Architecture" width="80%" />
 </div>
 
 ### 1. Dashboard
