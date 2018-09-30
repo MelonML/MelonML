@@ -13,7 +13,7 @@ MelonML has the vision to make machine learning more accessible by providing a s
 
 ## Architecture
 <div align="center">
-  <img src="./img/mel_architecture.jpg" alt="MelonML architecture info graphic" title="Architecture" width="80%" />
+  <img src="./img/mel_architecture.jpg" alt="MelonML architecture info graphic" title="Architecture" width="100%" />
 </div>
 
 ### 1. Dashboard
