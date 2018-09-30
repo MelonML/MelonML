@@ -40,7 +40,13 @@ The runner is responsible for the training of the machine learning model. It is 
 It fetches the training data from the coordinator and uses [AutoKeras](https://github.com/jhfjhfj1/autokeras) to find a suitable model and train it. The final model is then pushed together with a report back to the coordinator.
 
 ## Milestones
-
+- [ ] UI mockups
+- [ ] Functional UI with example data
+- [ ] Functional Coordinator
+- [ ] Functional Task Runner with example data
+- [ ] Upload of own images
+- [ ] Connecting own Runners via token
+- [ ] Generating training reports
 
 ## Authors
 
